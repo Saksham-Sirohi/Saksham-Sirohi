@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Sirohi</h1>
 <h3 align="center">Developer passionate about ML, AI, data science, and analytics. Skilled in Python, SQL, and building data-driven solutions. Love turning data into insights and creating smart systems. 🚀</h3>
 <br>
-- 🔭 I’m currently working on **Frenzy-household-services-app**
+- 🔭 I’m currently working on Eventyay-Tickets with FOSSASIA under Google Summer of Code
 
 - 🌱 I’m currently learning **Advanced Machine Learning techniques**
 
