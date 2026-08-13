@@ -4,5 +4,5 @@
   </a>
   <br />
   <a href="https://saksham-sirohi.github.io"><strong>saksham-sirohi.github.io</strong></a>
-  · software engineer @ fossasia · gsoc · iit madras
+  · Software Engineer @ FOSSASIA · GSoC · IIT Madras
 </p>
